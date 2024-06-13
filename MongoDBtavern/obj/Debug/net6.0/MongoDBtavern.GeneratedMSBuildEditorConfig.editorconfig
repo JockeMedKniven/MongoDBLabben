@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MongoDBtavern
-build_property.ProjectDir = C:\Users\joaki\Source\Repos\MongoDBtavern\MongoDBtavern\
+build_property.ProjectDir = C:\Users\Joakim\Documents\VS Projekt\MongoDBLabben\MongoDBtavern\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

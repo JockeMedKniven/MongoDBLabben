@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaki\\Source\\Repos\\MongoDBtavern\\MongoDBtavern\\MongoDBtavern.csproj": {}
+    "C:\\Users\\Joakim\\Documents\\VS Projekt\\MongoDBLabben\\MongoDBtavern\\MongoDBtavern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaki\\Source\\Repos\\MongoDBtavern\\MongoDBtavern\\MongoDBtavern.csproj": {
+    "C:\\Users\\Joakim\\Documents\\VS Projekt\\MongoDBLabben\\MongoDBtavern\\MongoDBtavern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaki\\Source\\Repos\\MongoDBtavern\\MongoDBtavern\\MongoDBtavern.csproj",
+        "projectUniqueName": "C:\\Users\\Joakim\\Documents\\VS Projekt\\MongoDBLabben\\MongoDBtavern\\MongoDBtavern.csproj",
         "projectName": "MongoDBtavern",
-        "projectPath": "C:\\Users\\joaki\\Source\\Repos\\MongoDBtavern\\MongoDBtavern\\MongoDBtavern.csproj",
-        "packagesPath": "C:\\Users\\joaki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaki\\Source\\Repos\\MongoDBtavern\\MongoDBtavern\\obj\\",
+        "projectPath": "C:\\Users\\Joakim\\Documents\\VS Projekt\\MongoDBLabben\\MongoDBtavern\\MongoDBtavern.csproj",
+        "packagesPath": "C:\\Users\\Joakim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joakim\\Documents\\VS Projekt\\MongoDBLabben\\MongoDBtavern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joakim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,7 +42,7 @@
           "dependencies": {
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.18.0, )"
+              "version": "[2.26.0, )"
             }
           },
           "imports": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
